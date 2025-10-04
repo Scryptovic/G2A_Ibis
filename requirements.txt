@@ -1,0 +1,6 @@
+requests
+pandas
+numpy
+keras
+scikit-learn
+fasta-reader
